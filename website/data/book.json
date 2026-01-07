@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "An overconfident solo traveler gets hopelessly lost in the labyrinthine converted medina hostel and dies of dehydration in a sealed-off wing that nobody knew existed.",
     "long": ""
   },
   "death_type": "Maze Lost",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "He couldn't find the bathroom. They couldn't find his body."
 }
